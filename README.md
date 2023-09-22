@@ -7,7 +7,7 @@ mobile number screen.
 OTP varification screen.
 
 Here is the workflow of whole process
-⚫ Screen 1: Enter Mobile Number (and change country if required)
+⚫ Screen 1: Enter Mobile Number
 
 Click on "Send OTP
 
